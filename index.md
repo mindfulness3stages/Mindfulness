@@ -1,12 +1,10 @@
 ## Development of Mindfulness in Three Stages 
 
 ### Purpose of this site
-
 This is the blogsite for the paper **_Reflections on Athletes’ Mindfulness Skills Development: Fitts and Posner’s (1967) Three Stages of Learning_** (Kee, accepted on 2 Nov 2018). This article will appear in the *Journal of Sport Psychology in Action* sometime in 2019. 
 This site will be regularly updated based on discussions revolving this paper/idea, primarily through [@mindfulness3s](https://twitter.com/@mindfulness3s/) and personal communciation. The aim is to use this site to record the expansion of this discussion. Readers who would like to offer reflections are welcomed. These reflections can be linked to this site in due course.   
 
 ### In a nutshell
-
 Having some sense of how one's mindfulness would develop over time is useful while pursuing mindfuness practice.  
 
 In this paper, the case for viewing mindfulness skill as a skill that can be developed over three stages, namely, cognitive, associative, and autonomous stage, is presented. 
