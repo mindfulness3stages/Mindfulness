@@ -15,12 +15,14 @@ The accepted postprint can be downloaded <a href="postprint.pdf" download>here</
 
 ### In a nutshell
 
-#### Cognitive Stage
-as
+* Cognitive Stage
+** as
 
-#### Associative Stage
+* Associative Stage
+** ad
 
-#### Autonomous Stage
+* Autonomous Stage
+** d
 
 ### Contact
-The author Ying Hwa KEE can be contacted via email yinghwa.kee -at- nie.edu.sg.
+The author Ying Hwa KEE can be contacted via email *yinghwa.kee -at- nie.edu.sg*.
