@@ -1,5 +1,6 @@
-## Development of Mindfulness in Three Stages
-You can use the [editor on GitHub](https://github.com/mindfulness3stages/main/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Development of Mindfulness in Three Stages 
+
+This is the website for the paper "Reflections on Athletes’ Mindfulness Skills Development: Fitts and Posner’s (1967) Three Stages of Learning" (Kee, in press). This article was accepted for publication in Journal of Sport Psychology in Action.   
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
