@@ -16,25 +16,25 @@ Those familiar with motor skills acquisition learning literature would be famili
 
 In summary, it is posited that development in mindfulness practice can be appreciated in light of the three stages of learning model as follow: 
 
-__Cognitive Stage__
-  * It is important to get the instructions for mindfulness practice right. E.g., Do you know what it means by paying attention to your breathing? What will you do when you are distracted?
-  * Abstract concepts regarding mindfulness practice need to be clarified. E.g., If noticing the breathing is too hard, putting your finger under your nostril and being mindful of it may be more achievable. If you do not understand what is being open and nonjudmental, find out what it means within the context of mindfulness practice.  
-  * Receiving feedback about how your mindfulness practice is going is important.  
+  __Cognitive Stage__
+   * It is important to get the instructions for mindfulness practice right. E.g., Do you know what it means by paying attention to your breathing? What will you do when you are distracted?
+   * Abstract concepts regarding mindfulness practice need to be clarified. E.g., If noticing the breathing is too hard, putting your finger under your nostril and being mindful of it may be more achievable. If you do not understand what is being open and nonjudmental, find out what it means within the context of mindfulness practice.  
+   * Receiving feedback about how your mindfulness practice is going is important.  
 
-__Associative Stage__
-  * Once the basic instructions are assimilated, one would tend to use the mindfulness strategy in daily living situations (and, for athletes, in sports).
-  * Cues in daily life can activate one's intention to be mindful.   
+ __Associative Stage__
+   * Once the basic instructions are assimilated, one would tend to use the mindfulness strategy in daily living situations (and, for athletes, in sports).
+   * Cues in daily life can activate one's intention to be mindful.   
 
-__Autonomous Stage__
-  * Mindfulness becomes a second nature, and habitual.
-  * Sense of [equanimity](https://dx.doi.org/10.1007%2Fs12671-013-0269-8) developed.  
+ __Autonomous Stage__
+   * Mindfulness becomes a second nature, and habitual.
+   * Sense of [equanimity](https://dx.doi.org/10.1007%2Fs12671-013-0269-8) developed.  
 
-If you have some thoughts about this, feel free to connect on Twitter through [@mindfulness3s](https://twitter.com/@mindfulness3s/).
+If you have some thoughts about this discussion, feel free to connect on Twitter through [@mindfulness3s](https://twitter.com/@mindfulness3s/).
 
 ### To read the paper
 You are welcome to request for the postprint of this article by contacting the author, [Ying Hwa KEE](https://scholar.google.com.sg/citations?user=_4flSMUAAAAJ&hl=en), via this email: *yinghwa.kee -at- nie.edu.sg*. 
 <br>
-The paper will be available through https://doi.org/10.1080/21520704.2018.1549640 when it is ready in December 2019.
+The paper will be available through [https://doi.org/10.1080/21520704.2018.1549640] when it is ready in December 2019.
 
 *Updated 16 Nov 2018* 
 <br>
