@@ -32,7 +32,8 @@ __Autonomous Stage__
 If you have some thoughts about this, feel free to connect on Twitter through [@mindfulness3s](https://twitter.com/@mindfulness3s/).
 
 ### To read the paper
-You are welcome to request for the postprint of this article by contacting the author, [Ying Hwa KEE](https://scholar.google.com.sg/citations?user=_4flSMUAAAAJ&hl=en), via this email: *yinghwa.kee -at- nie.edu.sg*.
+You are welcome to request for the postprint of this article by contacting the author, [Ying Hwa KEE](https://scholar.google.com.sg/citations?user=_4flSMUAAAAJ&hl=en), via this email: *yinghwa.kee -at- nie.edu.sg*. 
+<br>
 The paper will be available through https://doi.org/10.1080/21520704.2018.1549640 when it is ready in December 2019.
 
 *Updated 16 Nov 2018* 
