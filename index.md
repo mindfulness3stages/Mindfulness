@@ -18,7 +18,7 @@ In summary, it is posited that development in mindfulness practice can be apprec
 
 __Cognitive Stage__
    * It is important to get the instructions for mindfulness practice right at the start. E.g., Do you know what it means by paying attention to your breathing? What will you do when you are distracted?
-   * Abstract concepts regarding mindfulness practice need to be made concrete and clarified. E.g., If noticing the breathe is too hard, putting your finger under your nostril to be aware of the air may make mindfulness practice more concrate. If you do not understand what is being open and nonjudmental, find out what it means within the context of mindfulness practice will go a long way.  
+   * Abstract concepts regarding mindfulness practice need to be made concrete and clarified. E.g., If noticing the breathe is too hard, putting your finger under your nostril to be aware of the air may make the mindfulness practice more concrete. If you do not understand what is being open and nonjudmental, find out what it means within the context of mindfulness practice will go a long way.  
    * Receiving feedback about how your mindfulness practice is going is important at this initial stage.  
 
  __Associative Stage__
