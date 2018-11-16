@@ -2,7 +2,7 @@
 
 ### Purpose of this site
 This is the blogsite for the paper **_Reflections on Athletes’ Mindfulness Skills Development: Fitts and Posner’s (1967) Three Stages of Learning_** (Kee, accepted). This article will appear in Journal of Sport Psychology in Action sometime in 2019. 
-This site will be regularly updated based on discussions revolving this paper/idea, primarily through [@mindfulness3s](https://twitter.com/@mindfulness3stages/).
+This site will be regularly updated based on discussions revolving this paper/idea, primarily through [@mindfulness3s](https://twitter.com/@mindfulness3s/).
 
 ### In a nutshell
 
