@@ -3,7 +3,7 @@
 ### What is this about?
 This is the website for the paper "Reflections on Athletes’ Mindfulness Skills Development: Fitts and Posner’s (1967) Three Stages of Learning" (Kee, in press). In this paper, a case for viewing mindfulness skill as a skill that can be developed over three stages, namely, cognitive, associative, and autonomous stage is presented. 
 
-[![](http://img.youtube.com/vi/PBH7JY3Ldgk/0.jpg)](http://www.youtube.com/watch?v=PBH7JY3Ldgk "")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PBH7JY3Ldgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This article will appear in Journal of Sport Psychology in Action sometime in 2019. 
 
