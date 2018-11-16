@@ -5,7 +5,7 @@ This is the blogsite for the paper **_Reflections on Athletes’ Mindfulness Ski
 
 This article will appear in the *Journal of Sport Psychology in Action* sometime in 2019. 
 
-This site will be regularly updated based on discussions revolving this paper/idea, primarily through [@mindfulness3s](https://twitter.com/@mindfulness3s/) and personal communciation. The aim is to use this site to record the expansion of this discussion. Readers who would like to offer reflections are welcomed. These reflections can be linked to this site in due course.   
+This site will be regularly updated based on discussions revolving this paper/idea, primarily through [@mindfulness3s](https://twitter.com/@mindfulness3s/) and personal communciations. The aim is to use this site to record the expansion of this discussion. Readers (practitioners, scholars, non-scholars or anyone) who would like to offer reflections are welcomed. These reflections can be linked to this site in due course.   
 
 ### In a nutshell
 Having some sense of how one's mindfulness would develop over time is useful while pursuing mindfuness practice.  
@@ -38,4 +38,4 @@ The paper will be available through https://doi.org/10.1080/21520704.2018.154964
 
 *Updated 16 Nov 2018* 
 <br>
-Maintained by Ying Hwa KEE 
+Maintained by Ying Hwa KEE, PhD 
