@@ -9,6 +9,8 @@ The DOI for the article is https://doi.org/10.1080/21520704.2018.1549640.
 
 The accepted postprint can be downloaded here.  
 
+<a href="http://example.com/" target="_blank">example</a>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
