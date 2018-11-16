@@ -8,7 +8,8 @@ This article will appear in Journal of Sport Psychology in Action sometime in 20
 The DOI for the article is https://doi.org/10.1080/21520704.2018.1549640. 
 
 The accepted postprint can be downloaded here.  
-[Link](https://example.org/ "title" target="_blank")
+
+some text with a link <a href="http://www.google.com" target="blank">google</a>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
