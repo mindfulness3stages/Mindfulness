@@ -1,7 +1,7 @@
 ## Development of Mindfulness in Three Stages 
 
 ### What is this site about?
-This is the blogsite for the paper **Reflections on Athletes’ Mindfulness Skills Development: Fitts and Posner’s (1967) Three Stages of Learning** (Kee, in press). 
+This is the blogsite for the paper **_Reflections on Athletes’ Mindfulness Skills Development: Fitts and Posner’s (1967) Three Stages of Learning_** (Kee, in press). 
 
 In this paper, the case for viewing mindfulness skill as a skill that can be developed over three stages, namely, cognitive, associative, and autonomous stage is presented. 
 
