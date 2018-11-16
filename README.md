@@ -1,7 +1,9 @@
 ## Development of Mindfulness in Three Stages 
 
+### What is this about?
 This is the website for the paper "Reflections on Athletes’ Mindfulness Skills Development: Fitts and Posner’s (1967) Three Stages of Learning" (Kee, in press). 
-<br>
+
+
 This article will appear in Journal of Sport Psychology in Action sometime in 2019. 
 <br>
 The DOI for the article is https://doi.org/10.1080/21520704.2018.1549640. 
